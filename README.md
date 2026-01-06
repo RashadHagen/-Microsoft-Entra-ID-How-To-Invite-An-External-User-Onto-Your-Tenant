@@ -128,6 +128,11 @@ In this project, you will learn a controlled method to grant external users acce
 <table>
   <tr>
     <td><img src="https://imgur.com/6N7pKbV.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><img src="https://imgur.com/UVjEbMH.png" height="100%" width="100%" /></td>
   </tr>
 </table>
