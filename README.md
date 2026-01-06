@@ -44,7 +44,7 @@ In this project, you will learn a controlled method to grant external users acce
 <table>
   <tr>
     <td><img src="https://imgur.com/ylCvjDt.png" height="100%" width="100%" /></td>
-    <td><img src="hhttps://imgur.com/2FXPrX6.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/2FXPrX6.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
