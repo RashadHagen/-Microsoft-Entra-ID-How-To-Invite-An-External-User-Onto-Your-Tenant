@@ -204,7 +204,12 @@ In this project, you will learn a controlled method to grant external users acce
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/DQ88K0i.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/DQ88K0i.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><img src="https://imgur.com/mOKr1yh.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -212,7 +217,86 @@ In this project, you will learn a controlled method to grant external users acce
 <table>
   <tr>
     <td><img src="https://imgur.com/KnDdOUc.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/1cEqJA3.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/1cEqJA3.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>THE INVITED EXTERNAL USER NEEDS TO:</b></span>  
+<br/><br/>
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>The invited user will get an email.  In the email, they need to Click: Accept invitation (bottom of email).  Next, a new webpage will open: Microsoft Sign in.   After that, the invited user needs to Click: Send code (on Microsoft Sign in webpage).  Then, the invited user needs to go back to their emails and open the new email that will contain the verification code being requested by Microsoft within 30 minutes of clicking “Send code”.  Next, the invited user needs to go back to the Microsoft Sign in webpage and enter the invitation code. After that, the invited user needs to Click: Sign in.  Last, the invited user needs to Click: Accept (Permissions requested by: ).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ofZg1Hh.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Yfp7gon.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/snn21NC.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/CSQAu4K.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/VRLrnRN.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/sRGmq2h.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/azKuhne.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ofZg1Hh.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/sukZ0a9.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/028J9Ek.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/A0D8FvO.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/IBFgEH3.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/bRqN3XH.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
